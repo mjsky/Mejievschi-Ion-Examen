@@ -1,0 +1,2 @@
+Elaborați un RoadMap pe Jira Software ce va conține cel puțin 3 epic-uri
+(categorii) și includeți cât mai multe task-uri sau subtask-uri posibile.
